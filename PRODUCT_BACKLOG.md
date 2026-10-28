@@ -19,3 +19,8 @@ To develop a simple portal to manage student information efficiently.
 - Changes are reviewed.
 - Relevant tests pass.
 - Documentation is updated where necessary.
+## Acceptance Criteria
+- Student details can be added.
+- Student records can be viewed.
+- Student information can be updated.
+- Student records can be deleted.
