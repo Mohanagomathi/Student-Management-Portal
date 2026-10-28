@@ -43,3 +43,8 @@ Total Planned Story Points: 8
 
 ## Definition of Done
 All planned documentation is committed to GitHub and reviewed.
+## Sprint Review Checklist
+- [ ] Repository setup completed.
+- [ ] Product backlog reviewed.
+- [ ] Student form design planned.
+- [ ] Sprint deliverables reviewed.
